@@ -7,9 +7,9 @@ Movie App
 Table of Contents
 -----------------------------------------
 
-1. [➤About The Project](#about-the-project)
-2. [➤Demo Page](#demo-page)
-3. [➤Next Version Preview](#next-version-preview)
+1. [➤About The Project](#📝-about-the-project)
+2. [➤Demo Page](#💻-demo-page)
+3. [➤Next Version Preview](#💭-next-version-preview)
 
 
 📝 About The Project
