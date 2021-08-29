@@ -1,3 +1,3 @@
-# Movid App
+# Movie App
 
-React JS Fundamentals Course
+Using React JS
