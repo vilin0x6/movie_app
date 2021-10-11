@@ -3,7 +3,7 @@ Movie App
 무슨 영화를 볼지 고민된다면, Movie App을 통해 간편하게 골라보세요!
 
 <br/>
-<img src="./img/movieapp-img.jpg" width="700px" title="px(픽셀) 크기 설정" alt="Movie App"></img>
+<img src="./img/movieapp-img.jpg" width="700px" title="Movie App" alt="Movie App"></img>
 <br/>
 
 
